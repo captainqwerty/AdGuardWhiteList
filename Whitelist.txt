@@ -211,4 +211,4 @@
 # AutoAlex Merch Shop
 @@||iconbox.shop^
 # Admiral Insruance needs this to log in....
-@@||mobile.events.data.microsoft.com^$important
+@@||mobile.events.data.microsoft.com^$domain=admiral.com|admiral.co.uk
