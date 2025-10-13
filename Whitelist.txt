@@ -212,3 +212,5 @@
 @@||iconbox.shop^
 # Admiral Insruance needs this to log in....
 @@||mobile.events.data.microsoft.com^
+# Monzo
+@@||monzo.com^
