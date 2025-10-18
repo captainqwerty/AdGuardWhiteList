@@ -181,6 +181,7 @@
 @@||protonvpn.com^
 @@||protonmail.com^
 @@||protonvpn.net^
+@@||proton.me^
 # Kindle
 @@||kindle.com
 @@||kindle.amazon.com
