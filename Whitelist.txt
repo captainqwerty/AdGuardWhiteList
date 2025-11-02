@@ -215,3 +215,10 @@
 @@||mobile.events.data.microsoft.com^
 # Monzo
 @@||monzo.com^
+# Microsoft Smartscreen
+@@||nav-edge.smartscreen.microsoft.com^
+# Octopus Energy
+@@||sst.octopus.energy^
+# Now TV / Sky
+@@||pixel.disco.nowtv.com^
+@@||mobile-data.onetrust.io^
