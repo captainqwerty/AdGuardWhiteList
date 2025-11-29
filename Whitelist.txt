@@ -222,3 +222,5 @@
 # Now TV / Sky
 @@||pixel.disco.nowtv.com^
 @@||mobile-data.onetrust.io^
+# CD Projekt Red / GOG / Cyberpunk 2077
+@@||cdprojekt.red^
