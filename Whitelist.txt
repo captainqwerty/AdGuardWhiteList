@@ -227,4 +227,4 @@
 # Tailscale
 @@||tailscale.com^
 # Currys - Fixes images not loading on product pages
-@@||media.currys.biz^$domain=currys.co.uk
+@@||media.currys.biz^
